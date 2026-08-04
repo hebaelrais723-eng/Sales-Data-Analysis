@@ -2,11 +2,11 @@
 Analyzing sales data using Excel 
 
 
-## 📌 Project Overview
+## Project Overview
 
 This project was completed as a freelance data analysis task. The objective was to clean a sales dataset and generate key business insights using Microsoft Excel.
 
-## 🎯 Project Objectives
+## Project Objectives
 
 - Clean and validate the dataset.
 - Calculate total sales.
@@ -15,7 +15,7 @@ This project was completed as a freelance data analysis task. The objective was 
 - Create a sales-by-country visualization.
 - Ensure consistent formatting and accurate calculations.
 
-## 🛠️ Tools Used
+## Tools Used
 
 - Microsoft Excel
 - Pivot Tables
@@ -23,7 +23,7 @@ This project was completed as a freelance data analysis task. The objective was 
 - Data Cleaning Techniques
 - Formulas and Functions
 
-## 📂 Project Structure
+## Project Structure
 
 ```
 Sales_Data_Analysis/
@@ -41,7 +41,7 @@ Sales_Data_Analysis/
 └── LICENSE
 ```
 
-## 📊 Deliverables
+## Deliverables
 
 - Cleaned sales dataset
 - Sales summary
@@ -51,13 +51,13 @@ Sales_Data_Analysis/
 - Sales by country chart
 - Final report in PDF format
 
-## 📁 Files Included
+## Files Included
 
-- **Sales_Data.xlsx** – Original and cleaned dataset.
-- **Sales_Report.pdf** – Final report containing the analysis and dashboard.
-- **sales_by_country.png** – Chart preview.
+- **Sales_analysis.xlsx** – Original and cleaned dataset.
+- **final_Report.pdf** – Final report containing the analysis and dashboard.
+- **revenue by product type & by country.png** – Chart preview.
 
-## 🚀 Skills Demonstrated
+## Skills Demonstrated
 
 - Data Cleaning
 - Data Analysis
@@ -65,6 +65,6 @@ Sales_Data_Analysis/
 - Excel Dashboards
 - Data Visualization
 
-## 👩‍💻 Author
+## Author
 
 **Heba Elrais**
